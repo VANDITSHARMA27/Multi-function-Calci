@@ -1,7 +1,7 @@
 # Multi-function-Calci
 Multifunction calculator that is menu-driven and user-friendly. The calculator can perform basic operations (addition, subtraction, multiplication, division) as well as advanced operations like square root, power, and even trigonometric functions.
 
-How It Works:
+<b>How It Works:<b>
 
 -Functions: There are separate functions for each mathematical operation (addition, subtraction, etc.), along with functions for trigonometric operations (sine, cosine, tangent) and other advanced operations (square root and power).
 
@@ -12,7 +12,7 @@ How It Works:
 -Exit Option: The program exits if the user chooses option 0.
 
 
-Key Features:
+<b>Key Features:<b>
 
 -User can perform basic arithmetic and advanced mathematical operations.
 
