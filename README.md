@@ -12,7 +12,7 @@ Multifunction calculator that is menu-driven and user-friendly. The calculator c
 -Exit Option: The program exits if the user chooses option 0.
 
 
-<h3><b>Key Features:</b></h3>
+<h2><b>Key Features:</b></h2>
 
 -User can perform basic arithmetic and advanced mathematical operations.
 
